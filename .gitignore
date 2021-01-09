@@ -1,5 +1,5 @@
 model/
-data/GoogleNews-vectors-negative300.bin.gz
+data/GoogleNews-vectors-negative300.bin
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
